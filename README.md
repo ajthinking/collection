@@ -13,10 +13,8 @@ Convenient and dependency free wrapper for working with arrays.
 [![cdnjs version](https://img.shields.io/cdnjs/v/collect.js.svg?style=flat-square)](https://cdnjs.com/libraries/collect.js)
 
 ### Installation
-
-```bash
 ~~yarn add ajthinking/collection~~
-```
+
 
 ### Example Usage
 ```js
