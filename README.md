@@ -15,7 +15,7 @@ Convenient and dependency free wrapper for working with arrays.
 ### Installation
 
 ```bash
-yarn add collect.js
+~~yarn add ajthinking/collection~~
 ```
 
 ### Example Usage
