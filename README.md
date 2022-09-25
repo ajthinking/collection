@@ -1,5 +1,7 @@
 ## Collection
-> Convenient and dependency free wrapper for working with arrays. This is a clone from collect.js *minus* the object parts
+Convenient and dependency free wrapper for working with arrays.
+
+> This is a clone from collect.js *minus* the object parts
 
 [![Travis](https://img.shields.io/travis/com/ecrmnn/collect.js?style=flat-square)](https://app.travis-ci.com/github/ecrmnn/collect.js/builds)
 [![npm version](https://img.shields.io/npm/v/collect.js.svg?style=flat-square)](http://badge.fury.io/js/collect.js)
