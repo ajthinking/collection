@@ -16,6 +16,16 @@
 yarn add collect.js
 ```
 
+### Example Usage
+```js
+collect(books)
+  .where('pages', '>', 200)
+  .where('author', 'ajthinking')
+  .pluck('title')
+  .map(title => title.toUpperCase())
+  .toArray()
+ ```
+
 ### API
 
 All available methods
