@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ecrmnn/collect.js/master/collectjs.jpg" alt="collect.js">
 
-> Convenient and dependency free wrapper for working with arrays and objects
+> Convenient and dependency free wrapper for working with arrays ~~and objects~~
 
 [![Travis](https://img.shields.io/travis/com/ecrmnn/collect.js?style=flat-square)](https://app.travis-ci.com/github/ecrmnn/collect.js/builds)
 [![npm version](https://img.shields.io/npm/v/collect.js.svg?style=flat-square)](http://badge.fury.io/js/collect.js)
