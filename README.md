@@ -1,6 +1,5 @@
-# <img src="https://raw.githubusercontent.com/ecrmnn/collect.js/master/collectjs.jpg" alt="collect.js">
-
-> Convenient and dependency free wrapper for working with arrays ~~and objects~~
+## Collection
+> Convenient and dependency free wrapper for working with arrays. This is a clone from collect.js *minus* the object parts
 
 [![Travis](https://img.shields.io/travis/com/ecrmnn/collect.js?style=flat-square)](https://app.travis-ci.com/github/ecrmnn/collect.js/builds)
 [![npm version](https://img.shields.io/npm/v/collect.js.svg?style=flat-square)](http://badge.fury.io/js/collect.js)
@@ -13,31 +12,9 @@
 
 ### Installation
 
-#### NPM
-
-```bash
-npm install collect.js --save
-```
-
-#### Yarn
-
 ```bash
 yarn add collect.js
 ```
-
-#### From CDN
-
-1. Visit https://cdnjs.com/libraries/collect.js
-2. Add CDN link to your site with `<script>`
-
-#### Using build / minified version
-
-1. Download [`collect.min.js`](https://github.com/ecrmnn/collect.js/blob/master/build/collect.min.js)
-2. Add to your site with `<script>`
-
-### Tip
-
-Using Laravel as your backend? Collect.js offers an (almost) identical api to [Laravel Collections](https://laravel.com/docs/master/collections). [See differences](#strictness-and-comparisons).
 
 ### API
 
@@ -3210,8 +3187,8 @@ zipped.all();
 
 ### Contribute
 
-PRs are welcomed to this project, and help is needed in order to keep up with the changes of Laravel Collections. If you want to improve the collection library, add functionality or improve the docs please feel free to submit a PR.
+PRs are welcomed to this project.
 
 ### License
 
-MIT © [Daniel Eckermann](https://danieleckermann.com)
+MIT
