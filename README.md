@@ -1,4 +1,4 @@
-## Collection
+## Collection :dizzy:
 Convenient and dependency free wrapper for working with arrays.
 
 > This is a clone from collect.js *minus* the object parts
@@ -20,6 +20,12 @@ yarn add collect.js
 
 ### Example Usage
 ```js
+const books = [
+  {title: 'working with PHP', author: 'ajthinking', pages: 190},
+  {title: 'working with TS', author: 'ajthinking', pages: 250},
+  ...
+]
+
 collect(books)
   .where('pages', '>', 200)
   .where('author', 'ajthinking')
